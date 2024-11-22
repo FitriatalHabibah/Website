@@ -8,6 +8,6 @@ class DatabaseConfig
     public $host = "127.0.0.1";
     public $user = "root";
     public $password = "root";
-    public $database_name = "praktikumweb";
-    public $port = 8889;
+    public $database_name = "doaseharihari";
+    public $port = "8889";
 }
